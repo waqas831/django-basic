@@ -1,3 +1,4 @@
+#that is    python oop project
 class employeesA:
 #class objects and constructors
     def __init__(self,name):
@@ -13,7 +14,7 @@ class employeesA:
         return self.address
 
     def fun(self):
-        print("basic class in python")
+        print("basic class    in python")
 
     def marks(self):
         pass
