@@ -44,7 +44,7 @@ obj3.printstr()
 obj3.str2
 obj3.str1
 
-
+#dictionary in python
 contact={"waqas":+923016636957648,"rizwan":+922343247344,"usman":+9223435554445,"mudasir":+923454544345,"awais":+9234454657676
          ,"ayesha":+9234454544343,"memona":+92345445457744,"farzeen":+923443745457453}
 
